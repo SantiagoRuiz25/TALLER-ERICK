@@ -30,5 +30,5 @@ Erick Santiago Ruiz Moreno
 
 ## 🌐 Página en línea
 Puedes ver el proyecto funcionando aquí:  
-👉 https://SantiagoRuiz25.github.io/TALLER-ERICK/
+👉 file:///C:/Users/Aprendiz%20Tarde/Desktop/repositorios_3237831/taller%20erick/index.html
 

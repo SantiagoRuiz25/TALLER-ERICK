@@ -32,3 +32,8 @@ Erick Santiago Ruiz Moreno
 Puedes ver el proyecto funcionando aquí:  
 👉 file:///C:/Users/Aprendiz%20Tarde/Desktop/repositorios_3237831/taller%20erick/index.html
 
+## Video YouTube
+
+👉 - [] (https://www.youtube.com/watch?v=IW46-ie8sXQ)
+
+

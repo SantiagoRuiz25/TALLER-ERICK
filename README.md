@@ -10,6 +10,7 @@ Mi objetivo es seguir creciendo como desarrollador, adquirir experiencia real y 
 
 
 ## Descripción
+
 Proyecto web desarrollado con HTML5 y CSS3 como portafolio personal.
 
 ## Tecnologías
@@ -23,6 +24,13 @@ Proyecto web desarrollado con HTML5 y CSS3 como portafolio personal.
 /README.md
 /styles_Css
 
+## Sueños
+
+- Tener una vida tranquila
+- Tener lujos tanto como motos y demas
+- Lograr mis objetivos
+- Conseguir todo lo que tengo en mente
+
 
 ## Autor
 Erick Santiago Ruiz Moreno
@@ -35,5 +43,16 @@ Puedes ver el proyecto funcionando aquí:
 ## Video YouTube
 
 👉 https://www.youtube.com/watch?v=iiTDUNkRn0w
+
+## CONTACTO ☎️
+
+👉 3222336216
+
+## CORREO ✉️
+
+👉 ericksantiago7p@gmail.com
+
+
+
 
 

@@ -26,3 +26,9 @@ Proyecto web desarrollado con HTML5 y CSS3 como portafolio personal.
 
 ## Autor
 Erick Santiago Ruiz Moreno
+
+
+## 🌐 Página en línea
+Puedes ver el proyecto funcionando aquí:  
+👉 https://SantiagoRuiz25.github.io/TALLER-ERICK/
+

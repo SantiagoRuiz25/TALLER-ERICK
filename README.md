@@ -34,6 +34,6 @@ Puedes ver el proyecto funcionando aquí:
 
 ## Video YouTube
 
-👉 - [] (https://www.youtube.com/watch?v=IW46-ie8sXQ)
+👉 https://www.youtube.com/watch?v=iiTDUNkRn0w
 
 
